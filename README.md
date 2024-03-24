@@ -27,10 +27,10 @@
 
 ✩ To carry out my studies or services, I use the following tools:
 
-    ✧ Visual Studio Code (vsc);
-    ✧ Git;
-    ✧ Windows;
-    ✧ Linux.
+    ✧ Visual Studio Code (vsc) ;
+    ✧ Git ;
+    ✧ Windows ;
+    ✧ Linux .
 
 ### <img src="images/img3.png" width="60" height="50"> My Contacts: <h1>
 
