@@ -11,7 +11,7 @@
       ✧ I engage in additional studies on UX/UI design ;
       ✧ In my spare time, I pursue my hobby of illustration .
 
-✩ I have knowledge of the following **Programs | Structures:**
+✩ I have knowledge of the following **Programs | Structures :**
 
 &nbsp;
 
@@ -23,9 +23,18 @@
     <img src="images/css icon.png" width="50" height="50">
 </div>
 
+&nbsp;
+
+✩ To carry out my studies or services, I use the following tools:
+- Visual Studio Code (vsc);
+- Git;
+- Windows;
+- Linux.
+
 ### <img src="images/img3.png" width="60" height="50"> My Contacts: <h1>
 
-✩ These are some of my social networks, on my Instagram I make routine posts, for professional matters, access my email or LinkedIn :)
+✩ These are some of my social networks, on my Instagram I make routine posts, for professional matters, access my email or LinkedIn :)\
+✩ Just click on the icon and you will be redirected to my accounts !
 
 &nbsp;
 
@@ -53,7 +62,14 @@
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaantonii&layout=compact&theme=graywhite" />
 </p>
 
->No matter how many weapons you have, no matter how great your technology might be, the world cannot live without love.
+---
+
+<p align="right">
+    
+     No matter how many weapons you have, no matter how great your technology might be, the world cannot live without love.
+                                                                                             - シータ - "Castle on the Sky"
+                                                                                             
+</p>
 
 
 
