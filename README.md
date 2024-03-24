@@ -53,7 +53,7 @@
 
 ### <img src="images/img4.png" width="60" height="60"> My Projects: <h1>
 
-✧ [Compass.UOL - Internship Scholarship Program](https://github.com/juliaantonii/Compass-UOL) - Finished !
+✧ [Compass.UOL - Internship Scholarship Program](https://github.com/juliaantonii/Compass-UOL) - Finished !\
 ✧ [Calculator](https://github.com/juliaantonii/Calculator) - In progress . . .
 
 ### <img src="images/img5.png" width="70" height="55"> GitHub Stats: <h1>
