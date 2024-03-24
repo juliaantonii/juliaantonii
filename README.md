@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**juliaantonii/juliaantonii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Julia Antoni ✩°｡⋆⸜ 🎧✮💿
 
-Here are some ideas to get you started:
+✧ I'm an undergraduate student in Information Systems ;\
+✧ Currently working as a trainee data engineer ;\
+✧ I engage in additional studies on UX/UI design ;\
+✧ In my spare time, I pursue my hobby of illustration.\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" />
+ </p>
+
+ 📷[![Instagram](https://icons8.com.br/icon/l9Yus8DgqCtB/instagram)](goocle.com)\
+ https://icons8.com.br/icon/114083/letter
+ https://icons8.com.br/icon/447/linkedin
