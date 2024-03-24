@@ -11,6 +11,6 @@ Hello! I'm Julia Antoni ✩°｡⋆⸜ 🎧✮💿
   <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" />
  </p>
 
- 📷[![Instagram](https://icons8.com.br/icon/l9Yus8DgqCtB/instagram)](goocle.com)\
+ ![/assets/images/instagram icon.png](goocle.com)\
  https://icons8.com.br/icon/114083/letter
  https://icons8.com.br/icon/447/linkedin
