@@ -60,7 +60,7 @@
 ### <img src="images/img5.png" width="70" height="55"> GitHub Stats: <h1>
 
 <p align="center">
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" />&nbsp; &nbsp;
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" />
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaantonii&layout=compact&theme=graywhite" />
 </p>
 
