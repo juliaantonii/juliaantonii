@@ -51,7 +51,7 @@
     </a>
 </div>
 
-### <img src="images/img4.png" width="60" height="60"> My Projects: <h1>
+### <img src="images/img4.png" width="60" height="60"> My Projects / Repositories: <h1>
 
 ✧ [Compass.UOL - Internship Scholarship Program](https://github.com/juliaantonii/Compass-UOL) - Finished !\
 ✧ [Calculator](https://github.com/juliaantonii/Calculator) - In progress . . .\
