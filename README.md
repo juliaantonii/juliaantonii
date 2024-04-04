@@ -32,6 +32,13 @@
     ✧ Windows ;
     ✧ Linux .
 
+### <img src="images/img5.png" width="70" height="55"> GitHub Stats: <h1>
+
+<p align="center">
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaantonii&layout=compact&theme=graywhite" />
+</p>
+
 ### <img src="images/img3.png" width="60" height="50"> My Contacts: <h1>
 
 ✩ These are some of my social networks, on my Instagram I make routine posts, for professional matters, access my email or LinkedIn :)\
@@ -56,15 +63,6 @@
 ✧ [Compass.UOL - Internship Scholarship Program](https://github.com/juliaantonii/Compass-UOL) - Finished !\
 ✧ [Calculator](https://github.com/juliaantonii/Calculator) - In progress . . .\
 ✧ [Algorithms I - Studies in C Language](https://github.com/juliaantonii/ALG-PROG) - In progress . . .
-
-### <img src="images/img5.png" width="70" height="55"> GitHub Stats: <h1>
-
-<p align="center">
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaantonii&layout=compact&theme=graywhite" />
-</p>
-
----
 
 <p align="right">
     
