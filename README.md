@@ -2,7 +2,7 @@
     <img src="images/thumb.jpg" width="1000" height="200">
 </div>
 
-### <img src="images/img2.png" width="50" height="40"> Hello! I'm Julia Antoni <h1>
+## <img src="images/img2.png" width="50" height="40"> Hello! I'm Julia Antoni
 
  ✩°｡⋆⸜ 🎧✮💿
 
@@ -32,14 +32,14 @@
     ✧ Windows ;
     ✧ Linux .
 
-### <img src="images/img5.png" width="70" height="55"> GitHub Stats: <h1>
+## <img src="images/img5.png" width="70" height="55"> GitHub Stats:
 
 <p align="center">
   <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" /> &nbsp;
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaantonii&layout=compact&theme=graywhite" />
+  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaantonii&layout=compact&theme=graywhite" />
 </p>
 
-### <img src="images/img3.png" width="60" height="50"> My Contacts: <h1>
+## <img src="images/img3.png" width="60" height="50"> My Contacts:
 
 ✩ These are some of my social networks, on my Instagram I make routine posts, for professional matters, access my email or LinkedIn :)\
 ✩ Just click on the icon and you will be redirected to my accounts !
@@ -58,7 +58,7 @@
     </a>
 </div>
 
-### <img src="images/img4.png" width="60" height="60"> My Projects / Repositories: <h1>
+## <img src="images/img4.png" width="65" height="60"> My Projects / Repositories:
 
 ✧ [Compass.UOL - Internship Scholarship Program](https://github.com/juliaantonii/Compass.UOL---Internship-Scholarship-Program) - Finished !\
 ✧ [Calculator](https://github.com/juliaantonii/Calculator) - In progress . . .\
