@@ -60,7 +60,7 @@
 
 ### <img src="images/img4.png" width="60" height="60"> My Projects / Repositories: <h1>
 
-✧ [Compass.UOL - Internship Scholarship Program](https://github.com/juliaantonii/Compass-UOL) - Finished !\
+✧ [Compass.UOL - Internship Scholarship Program]([https://github.com/juliaantonii/Compass-UOL](https://github.com/juliaantonii/Compass.UOL---Internship-Scholarship-Program)) - Finished !\
 ✧ [Calculator](https://github.com/juliaantonii/Calculator) - In progress . . .\
 ✧ [Algorithms I - Studies in C Language](https://github.com/juliaantonii/ALG-PROG) - In progress . . .
 
