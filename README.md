@@ -35,8 +35,8 @@
 ### <img src="images/img5.png" width="70" height="55"> GitHub Stats: <h1>
 
 <p align="center">
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" />
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaantonii&layout=compact&theme=graywhite" />
+  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" /> &nbsp;
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaantonii&layout=compact&theme=graywhite" />
 </p>
 
 ### <img src="images/img3.png" width="60" height="50"> My Contacts: <h1>
@@ -70,6 +70,12 @@
                                                                                              - シータ - "Castle on the Sky"
                                                                                              
 </p>
+
+&nbsp;
+
+<div align="center">
+    <img src="images/me in pixel.gif" min-width="50px" max-width="50px" width="75px">
+</div>
 
 
 
