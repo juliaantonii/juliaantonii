@@ -62,7 +62,7 @@
 
 ✧ [Compass.UOL - Internship Scholarship Program](https://github.com/juliaantonii/Compass.UOL---Internship-Scholarship-Program) - Finished !\
 ✧ [Calculator](https://github.com/juliaantonii/Calculator) - In progress . . .\
-✧ [Algorithms I - Studies in C Language](https://github.com/juliaantonii/ALG-PROG) - In progress . . .
+✧ [Algorithms I - Studies in C Language](https://github.com/juliaantonii/ALG-PROG) - In progress . . .\
 ✧ [Azure Cloud - Studies DB Server](https://github.com/juliaantonii/AZURE) - In progress . . .
 
 <p align="right">
