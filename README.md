@@ -47,9 +47,6 @@
 &nbsp;
 
 <div align="center">
-    <a href="https://www.instagram.com/juliaantonii/?hl=pt">
-        <img src="images/instagram icon.png" width="50" height="50">
-    </a>&nbsp; &nbsp;
     <a href="mailto:juliaantonisaab@gmail.com">
         <img src="images/gmail icon.png" width="50" height="50">
     </a>&nbsp; &nbsp;
