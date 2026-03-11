@@ -6,15 +6,18 @@
 
 <table border="0">
   <tr>
-    <td>
+    <td width="60%" valign="top">
       <p align="left">
-        <p align="center">
         Hello, I'm Julia Antoni! An undergraduate Information Systems student currently working as a trainee data engineer.
         Beyond my technical background, I actively engage in additional studies on UX/UI design and dedicate my spare time to my hobby of illustration, blending analytical thinking with a passion for visual creativity. ✧
       </p>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlydGpwajd6OGVkamRkY3RpNWxpcjZraTMwdHl5ZGpzaXY5NDJlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PkKzNQjwPy7GvxZbfe/giphy.gif" width="900">
+
+    <td width="40%" valign="bottom">
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlydGpwajd6OGVkamRkY3RpNWxpcjZraTMwdHl5ZGpzaXY5NDJlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PkKzNQjwPy7GvxZbfe/giphy.gif" width="100%">
+      <p align="left" style="margin-top: 5px;">
+        <i>- Prof. John Brand (Dylan Thomas)</i>
+      </p>
     </td>
   </tr>
 </table>
