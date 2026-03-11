@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="images/giphy.gif" width="180" align="right" style="margin-left: 20px;" />
+<img src="images/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 
 <p>
   hello! I'm Julia Antoni
