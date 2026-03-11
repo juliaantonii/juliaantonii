@@ -4,16 +4,22 @@
 
 ## ✩°｡⋆ _About me_
 
-<p align="center">
-Hello, I'm Julia Antoni . . .
-An undergraduate Information Systems student currently working as a trainee data engineer. Beyond my technical background, I actively engage in additional studies on UX/UI design and dedicate my spare time to my hobby of illustration, blending analytical thinking with a passion for visual creativity. ✧
-</p>
+<table border="0">
+  <tr>
+    <td>
+      <p align="left">
+        <p align="center">
+        Hello, I'm Julia Antoni! An undergraduate Information Systems student currently working as a trainee data engineer.
+        Beyond my technical background, I actively engage in additional studies on UX/UI design and dedicate my spare time to my hobby of illustration, blending analytical thinking with a passion for visual creativity. ✧
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlydGpwajd6OGVkamRkY3RpNWxpcjZraTMwdHl5ZGpzaXY5NDJlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PkKzNQjwPy7GvxZbfe/giphy.gif" width="900">
+    </td>
+  </tr>
+</table>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=12&pause=500&color=F7F7F7&width=435&lines=N%C3%A3o+adentre+a+boa+noite+apenas+com+a+ternura%2C;A+velhice+queima+e+clama+ao+cair+do+dia%2C;F%C3%BAria...+f%C3%BAria...+contra+a+luz+que+j%C3%A1+n%C3%A3o+fulgura.+;Embora+os+s%C3%A1bios%2C+no+fim+da+vida%2C;saibam+que+%C3%A9+a+escurid%C3%A3o+que+perdura%2C;Pois+suas+palavras+n%C3%A3o+capturaram+a+centelha+tardia.;N%C3%A3o+adentre+a+boa+noite+apenas+com+a+ternura%2C;F%C3%BAria...+f%C3%BAria...+contra+a+luz+que+j%C3%A1+n%C3%A3o+fulgura;...)](https://git.io/typing-svg)
-
-<p align="right">
-- Prof. John Brand (Dylan Thomas)
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=12&pause=500&color=F7F7F7&width=435&lines=N%C3%A3o+adentre+a+boa+noite+apenas+com+a+ternura%2C;A+velhice+queima+e+clama+ao+cair+do+dia%2C;F%C3%BAria...+f%C3%BAria...+contra+a+luz+que+j%C3%A1+n%C3%A3o+fulgura.+;Embora+os+s%C3%A1bios%2C+no+fim+da+vida%2C;saibam+que+%C3%A9+a+escurid%C3%A3o+que+perdura%2C;Pois+suas+palavras+n%C3%A3o+capturaram+a+centelha+tardia.;N%C3%A3o+adentre+a+boa+noite+apenas+com+a+ternura%2C;F%C3%BAria...+f%C3%BAria...+contra+a+luz+que+j%C3%A1+n%C3%A3o+fulgura;...)](https://git.io/typing-svg) - Prof. John Brand (Dylan Thomas)
 
 ## ✩°｡⋆ _Technologies_
 
