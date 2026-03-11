@@ -1,72 +1,79 @@
 <div align="center">
-    <img src="images/thumb.jpg" width="1000" height="200">
+    <img src="images/banner.png" width="1000" height="160">
 </div>
 
-## <img src="images/img2.png" width="50" height="40"> Hello! I'm Julia Antoni
+## ✩°｡⋆ _About me_
 
- ✩°｡⋆⸜ 🎧✮💿
+    Hello, I'm Julia Antoni, an undergraduate Information Systems student currently working as a trainee data engineer. Beyond my technical background, I actively engage in additional studies on UX/UI design and dedicate my spare time to my hobby of illustration, blending analytical thinking with a passion for visual creativity. ✧
 
-      ✧ I'm an undergraduate student in Information Systems ;
-      ✧ Currently working as a trainee data engineer ;
-      ✧ I engage in additional studies on UX/UI design ;
-      ✧ In my spare time, I pursue my hobby of illustration .
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=12&pause=500&color=F7F7F7&width=435&lines=N%C3%A3o+adentre+a+boa+noite+apenas+com+a+ternura%2C;A+velhice+queima+e+clama+ao+cair+do+dia%2C;F%C3%BAria...+f%C3%BAria...+contra+a+luz+que+j%C3%A1+n%C3%A3o+fulgura.+;Embora+os+s%C3%A1bios%2C+no+fim+da+vida%2C;saibam+que+%C3%A9+a+escurid%C3%A3o+que+perdura%2C;Pois+suas+palavras+n%C3%A3o+capturaram+a+centelha+tardia.;N%C3%A3o+adentre+a+boa+noite+apenas+com+a+ternura%2C;F%C3%BAria...+f%C3%BAria...+contra+a+luz+que+j%C3%A1+n%C3%A3o+fulgura;...)](https://git.io/typing-svg)
+                                                     - Prof. John Brand (Dylan Thomas)
 
-✩ I have knowledge of the following **Programs | Structures :**
+## ✩°｡⋆ _Technologies_
 
 &nbsp;
-
-<div align="center">
-    <img src="images/c icon.png" width="45" height="50">&nbsp; &nbsp;
-    <img src="images/python icon.png" width="50" height="50">&nbsp; &nbsp;
-    <img src="images/sql icon.png" width="100" height="50">&nbsp; &nbsp;
-    <img src="images/html icon.png" width="50" height="50">&nbsp; &nbsp;
-    <img src="images/css icon.png" width="50" height="50">
-</div>
-
-&nbsp;
-
-✩ To carry out my studies or services, I use the following tools:
-
-    ✧ Visual Studio Code (vsc) ;
-    ✧ Git ;
-    ✧ Windows ;
-    ✧ Linux .
-
-## <img src="images/img5.png" width="70" height="55"> GitHub Stats:
 
 <p align="center">
-  <img  width="50%" src="https://github-readme-stats.vercel.app/api?username=juliaantonii&theme=graywhite&show_icons=true" /> &nbsp;
-  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaantonii&layout=compact&theme=graywhite" />
+  <code><img src="https://api.iconify.design/streamline-logos:c-language-logo-solid.svg?color=%23FFFFFF&width=20&height=20" alt="C" /> <b>C&nbsp;</b></code> &nbsp;&nbsp;
+  <code><img src="https://api.iconify.design/mdi:language-python.svg?color=%23FFFFFF&width=20&height=20" alt="Python" /> <b>PYTHON&nbsp;</b></code> &nbsp;&nbsp;
+  <code><img src="https://api.iconify.design/devicon-plain:mysql.svg?color=%23FFFFFF&width=20&height=20" alt="MySQL" /> <b>MYSQL&nbsp;</b></code> &nbsp;&nbsp;
+  <code><img src="https://api.iconify.design/simple-icons:apachespark.svg?color=%23FFFFFF&width=20&height=20" alt="Spark" /> <b>APACHE SPARK&nbsp;</b></code> &nbsp;&nbsp;
+  <code><img src="https://api.iconify.design/simple-icons:powerbi.svg?color=%23FFFFFF&width=&height=20" alt="Power BI" /> <b>POWER BI&nbsp;</b></code> &nbsp;&nbsp;
+  <code><img src="https://api.iconify.design/mdi:aws.svg?color=%23FFFFFF&width=20&height=20" alt="AWS" /> <b>AWS&nbsp;</b></code>
 </p>
 
-## <img src="images/img3.png" width="60" height="50"> My Contacts:
+<div align="center">
+To carry out my studies or services, I use the following tools:
+</div>
 
-✩ These are some of my social networks, on my Instagram I make routine posts, for professional matters, access my email or LinkedIn :)\
-✩ Just click on the icon and you will be redirected to my accounts !
+&nbsp;
+
+    ✧ Visual Studio Code (vsc) ;
+    ✧ DBeaver ;
+    ✧ Git ;
+    ✧ Windows .
+
+## ✩°｡⋆ _Statistics_
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=juliaantonii&theme=dark&hide_border=true&border_radius=15&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=CCCCCC&sideLabels=FFFFFF&dates=999999&currStreakNum=FFFFFF&sideNums=FFFFFF" width="60%" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliaantonii&custom_title=Julia's%20Code%20Journey%20꒰ঌ%20໒꒱%20&bg_color=000000&color=FFFFFF&line=CCCCCC&point=FFFFFF&area=true&hide_border=true&radius=15" width="100%" alt="Contribution Graph" />
+</div>
+
+## ✩°｡⋆ _Contact Me_
+
+<div align="center">
+These are some of my social networks, on my Instagram I make routine posts, for professional matters, access my email or LinkedIn ˙ᵕ˙
+
+Just click on the icon and you will be redirected to my accounts !
+</div>
 
 &nbsp;
 
 <div align="center">
+    <a href="https://www.instagram.com/_helloanton/">
+        <img src="https://api.iconify.design/lucide:instagram.svg?color=%23FFFFFF&width=70&height=70" width="50" height="50">
+    </a>&nbsp; &nbsp;
     <a href="mailto:juliaantonisaab@gmail.com">
-        <img src="images/gmail icon.png" width="50" height="50">
+        <img src="https://api.iconify.design/streamline:gmail.svg?color=%23FFFFFF&width=70&height=70" width="50" height="50">
     </a>&nbsp; &nbsp;
     <a href="https://www.linkedin.com/in/j%C3%BAlia-antoni/">
-        <img src="images/linkedin icon.png" width="50" height="50">
+        <img src="https://api.iconify.design/tabler:brand-linkedin.svg?color=%23FFFFFF&width=70&height=70" width="50" height="50">
     </a>
 </div>
 
-## <img src="images/img4.png" width="65" height="60"> My Projects / Repositories:
+## ✩°｡⋆ _My Projects_
 
 ✧ [Compass.UOL - Internship Scholarship Program](https://github.com/juliaantonii/Compass.UOL---Internship-Scholarship-Program) - Finished !\
-✧ [Calculator](https://github.com/juliaantonii/Calculator) - In progress . . .\
-✧ [Algorithms I - Studies in C Language](https://github.com/juliaantonii/ALG-PROG) - In progress . . .\
-✧ [Azure Cloud - Studies DB Server](https://github.com/juliaantonii/AZURE) - In progress . . .
+✧ [Python Studies](https://github.com/juliaantonii/Estudos-Python) - In progress . . .\
+✧ [Arduino Studies](https://github.com/juliaantonii/arduino_studies) - In progress . . .\
+✧ [Algorithms I - Studies in C Language](https://github.com/juliaantonii/ALG-PROG) - In progress . . .
 
 <p align="right">
-    
-     No matter how many weapons you have, no matter how great your technology might be, the world cannot live without love.
-                                                                                             - シータ - "Castle on the Sky"
-                                                                                             
+                                                                             
 </p>
 
 &nbsp;
