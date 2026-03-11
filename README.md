@@ -8,18 +8,22 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWlydGpwajd6OGVkamRkY3RpNWxpcjZraTMwdHl5ZGpzaXY5NDJlNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PkKzNQjwPy7GvxZbfe/giphy.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
+
 <p>
   Hello, I'm Julia Antoni!
+</p>
+
 <p align="center">
   An undergraduate Information Systems student currently working as a trainee data engineer. Beyond my technical background, I actively engage in additional studies on UX/UI design and dedicate my spare time to my hobby of illustration, blending analytical thinking with a passion for visual creativity. ✧
 </p>
+
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=14&pause=500&color=F7F7F7&width=435&lines=N%C3%A3o+adentre+a+boa+noite+apenas+com+a+ternura%2C;A+velhice+queima+e+clama+ao+cair+do+dia%2C;F%C3%BAria...+f%C3%BAria...+contra+a+luz+que+j%C3%A1+n%C3%A3o+fulgura.;...;Pois+suas+palavras+n%C3%A3o+capturaram+a+centelha+tardia." alt="Typing SVG" />
 </a>
-    <p align="left">
-        <i>- Prof. John Brand (Dylan Thomas)</i>
-    </p>
 
+<p align="left">
+    <i>- Prof. John Brand (Dylan Thomas)</i>
+</p>
 
 <br/>
 
